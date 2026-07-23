@@ -1,5 +1,12 @@
 # VortexStreet
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/makarov-mm?style=flat&logo=github)](https://github.com/sponsors/makarov-mm)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makarov-mm/)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white)](https://www.threads.net/@m.m.makarov)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/m.m.makarov/)
+
 2D lattice Boltzmann fluid simulation: channel flow past a cylinder with a
 Kármán vortex street, dye advection, mouse-drawn obstacles.
 
